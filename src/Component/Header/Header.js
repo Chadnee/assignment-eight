@@ -10,6 +10,7 @@ const Header = () => {
                 <nav className='d-flex gap-3'>
                   <a href='#'>Home</a>
                   <a href='#'>About</a>
+                  <a href='#'>Contact</a>
                 </nav>
             </div>
         </div>
